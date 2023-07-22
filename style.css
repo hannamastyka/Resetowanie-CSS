@@ -29,3 +29,15 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+h1 {
+  font-size: 32px;
+  color: #3f3f3f;
+}
+h2 {
+  font-size: 24px;
+  color: #3f3f3f;
+}
+body {
+  color: #3f3f3f;
+}
